@@ -29,4 +29,4 @@ elif kesh-gotovina==0:
 else:
  print("Imate greshka")
 
- print(programa)
+ print(programa) #pram negde greshka, ne mi ja printa
